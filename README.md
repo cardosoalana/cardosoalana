@@ -1,13 +1,23 @@
 
 
-## Hi, there! My name is Alana Cardoso
+## 💜 Hi, there! My name is Alana Cardoso.
+<div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
+  <p align="left"> - Computer Technician.</p>
+  <p align="left"> - Studying Software Engineer.</p>
+  <p align="left"> - Mobile Software Engineer at Westwing.</p>
+</div>
 
+---
+<br><br>
 <div align="center">
   <a href="https://github.com/cardosoalana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardosoalana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosoalana&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
+--- 
+  
 ### I have knowledge in the following technologies:
 
 <div align="center" style="display: inline_block">
@@ -53,7 +63,8 @@
   <img align="center" alt="Alana-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Alana-VisualCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
-  ## 
+
+---
 <br>
 <div align="center"> 
   <a href="https://instagram.com/muru_muru" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
