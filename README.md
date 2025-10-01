@@ -1,22 +1,25 @@
 
 
 ## 💜 Hi, there! My name is Alana Cardoso.
-<div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
-  <p align="left"> - Computer Technician.</p>
-  <p align="left"> - Studying Software Engineer.</p>
-  <p align="left"> - Mobile Software Engineer.</p>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<your-github-username>/<your-github-username>/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<your-github-username>/<your-github-username>/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/<your-github-username>/<your-github-username>/output/github-contribution-grid-snake.svg" />
+</picture>
 
----
 <br><br>
 <div align="center">
   <a href="https://github.com/cardosoalana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardosoalana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosoalana&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-
---- 
+    
+<div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
+  <p align="left"> - Computer Technician.</p>
+  <p align="left"> - Studying Software Engineer.</p>
+  <p align="left"> - Mobile Software Engineer.</p>
+</div>
   
 ### I have knowledge in the following technologies:
 
